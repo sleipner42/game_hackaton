@@ -1,2 +1,2 @@
-# OQAM Game Hackaton
+# Game Hackaton
 Game created during OQAM Game Hackaton.
